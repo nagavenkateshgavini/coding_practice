@@ -12,4 +12,4 @@ This Repo contains various coding problems in computer science
   3. [Longest Consecutive Sequence](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Longest_Consecutive_Sequence.py) - medium
 
 ## Two Pointers:
-  1. [Valid palindrome](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/valid_Palindrome.py)
+  1. [Valid palindrome](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/valid_Palindrome.py) - Easy
