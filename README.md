@@ -14,3 +14,4 @@ This Repo contains various coding problems in computer science
 ## Two Pointers:
   1. [Valid palindrome](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/valid_Palindrome.py) - Easy
   2. [3Sum](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/3Sum.py) - Medium
+  3. [Longest substring without repeating Char](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/Longest_Substring_Without_Repeating_Char_acters.py) - Medium
