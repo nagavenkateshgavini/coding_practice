@@ -18,3 +18,6 @@ This Repo contains various coding problems in computer science
 
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
+  
+## LinkedLists:
+  1. [Reverse a single linked list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/linked_list/reverse_linked_list.py) - Easy
