@@ -27,3 +27,6 @@ This Repo contains various coding problems in computer science
 
 ## Heaps Or Priority Queues:
   1. [Find kth largest element from a stream of numbers](https://github.com/nagavenkateshgavini/coding_practise/blob/main/heaps/kth_largest_element_in_a_stream.py) - Easy
+
+## Graphs:
+  1. [Island Perimeter](https://github.com/nagavenkateshgavini/coding_practise/blob/main/graphs/island_perimeter.py) - Easy
