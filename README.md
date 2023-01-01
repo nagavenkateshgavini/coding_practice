@@ -35,4 +35,4 @@ This Repo contains various coding problems in computer science
   1. [Climbing Stairs](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/climbing_stairs.py) - Easy
  
 ## Greedy:
-  2. [Maximum Subarray](https://github.com/nagavenkateshgavini/coding_practise/blob/main/greedy/maximum_subarray.py) - Medium
+  1. [Maximum Subarray](https://github.com/nagavenkateshgavini/coding_practise/blob/main/greedy/maximum_subarray.py) - Medium
