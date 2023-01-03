@@ -36,3 +36,6 @@ This Repo contains various coding problems in computer science
  
 ## Greedy:
   1. [Maximum Subarray](https://github.com/nagavenkateshgavini/coding_practise/blob/main/greedy/maximum_subarray.py) - Medium
+
+## Math & Geometry:
+  1. [Happy Number](https://github.com/nagavenkateshgavini/coding_practise/blob/main/math_and_geometry/happy_number.py) - Easy
