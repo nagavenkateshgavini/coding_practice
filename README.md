@@ -5,6 +5,8 @@ This Repo contains various coding problems in computer science
 
 ## Stacks:
   1. [Valid Paranthesis](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/valid_paranthesis.py) - Easy
+  2. [Build Stack with list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/stack_basic_operations_list.py)
+  3. [Build Stack Operations with linkedlist](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/stack_basic_operation_linked_list.py) - Easy
   
 ## Arrays:
   1. [Best time to buy and sell stock](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Best_time_to_buy_and_sell_stock.py) - Easy
