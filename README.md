@@ -10,6 +10,7 @@ This Repo contains various coding problems in computer science
   
  ## Queues:
   1. [Queue implementation using list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/queues/build_queue_with_list.py) - Easy
+  2. [Build Circular Queue](https://github.com/nagavenkateshgavini/coding_practise/blob/main/queues/circular_queue.py) - medium
   
 ## Arrays:
   1. [Best time to buy and sell stock](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Best_time_to_buy_and_sell_stock.py) - Easy
