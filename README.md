@@ -42,6 +42,7 @@ This Repo contains various coding problems in computer science
   1. [Climbing Stairs](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/climbing_stairs.py) - Easy
   2. [Coin Change](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/coin_change.py) - Medium
   3. [Min cost climbing stairs](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/min_cost_climbing_stairs.py) - Easy
+  4. [House Robber](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/house_robber.py) - Medium
  
 ## Greedy:
   1. [Maximum Subarray](https://github.com/nagavenkateshgavini/coding_practise/blob/main/greedy/maximum_subarray.py) - Medium
