@@ -17,6 +17,7 @@ This Repo contains various coding problems in computer science
   2. [Product of Array Except Self](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Product_of_Array_Except_Self.py) - Medium
   3. [Longest Consecutive Sequence](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Longest_Consecutive_Sequence.py) - Medium
   4. [Boats to save People](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Boats_to_save_people.py) - Medium
+  5. [Optimal Partition of String](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Optimal_Partition_of_String.py) - Medium
 
 ## Two Pointers:
   1. [Valid palindrome](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/valid_Palindrome.py) - Easy
