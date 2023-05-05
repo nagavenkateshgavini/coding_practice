@@ -33,8 +33,10 @@ This Repo contains various coding problems in computer science
   
 ## Trees:
   1. [Binary Tree Inorder Tree Traversal](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/binary_tree_inorder_tree_traversal.py) - Easy
-  2. [DFS Tree Trversals](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/dfs.py) - Easy
-  3. [Invert Binary Tree](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/invert_binary_tree.py) - Easy
+  2. [DFS Tree Trversals](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/dfs_recursive.py) - Easy
+  3. [DFS Tree Traversal Iterative](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/dfs_iteratively.py) - Easy
+  4. [Invert Binary Tree](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/invert_binary_tree.py) - Easy
+  5. [BFS or Level order traversal](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/bfs_or_level_order.py) - Easy
 
 ## Heaps Or Priority Queues:
   1. [Find kth largest element from a stream of numbers](https://github.com/nagavenkateshgavini/coding_practise/blob/main/heaps/kth_largest_element_in_a_stream.py) - Easy
