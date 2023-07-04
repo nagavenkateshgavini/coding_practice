@@ -44,6 +44,7 @@ This Repo contains various coding problems in computer science
 
 ## Graphs:
   1. [Island Perimeter](https://github.com/nagavenkateshgavini/coding_practise/blob/main/graphs/island_perimeter.py) - Easy
+  2. [DFS with adj matrix Recursive](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/dfs_recursive_adj_matrix.py) - Easy
   
 ## 1-D Dynamic Programming
   1. [Climbing Stairs](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/climbing_stairs.py) - Easy
