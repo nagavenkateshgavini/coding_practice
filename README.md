@@ -1,4 +1,4 @@
-# coding_practise
+# coding_practice
 This Repo contains various coding problems in computer science
 
 # Problems List:
