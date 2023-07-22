@@ -30,6 +30,7 @@ This Repo contains various coding problems in computer science
 ## LinkedLists:
   1. [Reverse a single linked list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/linked_list/reverse_linked_list.py) - Easy
   2. [Rotate list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/linked_list/rotate_list.py) - medium
+  3. [Add Two Numbers](https://github.com/nagavenkateshgavini/coding_practice/blob/main/linked_list/add_two_numbers.py) - medium
   
 ## Trees:
   1. [Binary Tree Inorder Tree Traversal](https://github.com/nagavenkateshgavini/coding_practise/blob/main/trees/binary_tree_inorder_tree_traversal.py) - Easy
