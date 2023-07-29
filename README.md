@@ -7,6 +7,7 @@ This Repo contains various coding problems in computer science
   1. [Valid Paranthesis](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/valid_paranthesis.py) - Easy
   2. [Build Stack with list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/stack_basic_operations_list.py) - Easy
   3. [Build Stack Operations with linkedlist](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/stack_basic_operation_linked_list.py) - Easy
+  4. [Simplify Paht](https://github.com/nagavenkateshgavini/coding_practice/blob/main/stacks/simplify_path.py) - Medium
   
  ## Queues:
   1. [Queue implementation using list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/queues/build_queue_with_list.py) - Easy
