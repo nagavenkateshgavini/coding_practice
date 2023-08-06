@@ -25,6 +25,7 @@ This Repo contains various coding problems in computer science
   2. [3Sum](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/3Sum.py) - Medium
   3. [Longest substring without repeating Char](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/Longest_Substring_Without_Repeating_Char_acters.py) - Medium
   4. [Remove nth node from end of the list](https://github.com/nagavenkateshgavini/coding_practice/blob/main/two_pointers/remove_nth_node_from_end.py) - Medium
+  5. [Sort Colors](https://github.com/nagavenkateshgavini/coding_practice/blob/main/two_pointers/sort_colors.py) - Medium
 
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
