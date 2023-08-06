@@ -1,5 +1,5 @@
 # coding_practice
-This Repo contains various coding problems in computer science
+This repo contains DS & Algo problem solutions
 
 # Problems List:
 
