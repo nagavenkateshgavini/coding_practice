@@ -30,6 +30,7 @@ This repo contains DS & Algo problem solutions
 ## Fast and Slow Pointers:
 1. [Detect Cycle LinkedList](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/detect_linked_list_cycle.py) - Easy
 2. [Happy Number](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/happy_number.py) - Easy
+3. [Middle of a single linkedlist](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/middle_of_linked_list.py) - Easy
    
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
