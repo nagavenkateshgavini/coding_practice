@@ -27,6 +27,8 @@ This repo contains DS & Algo problem solutions
   4. [Remove nth node from end of the list](https://github.com/nagavenkateshgavini/coding_practice/blob/main/two_pointers/remove_nth_node_from_end.py) - Medium
   5. [Sort Colors](https://github.com/nagavenkateshgavini/coding_practice/blob/main/two_pointers/sort_colors.py) - Medium
 
+## Fast and Slow Pointers:
+1. [Detect Cycle LinkedList](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/detect_linked_list_cycle.py) - Easy
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
   
