@@ -32,7 +32,9 @@ This repo contains DS & Algo problem solutions
 2. [Happy Number](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/happy_number.py) - Easy
 3. [Middle of a single linkedlist](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/middle_of_linked_list.py) - Easy
 4. [Palindrome LinkedList](https://github.com/nagavenkateshgavini/coding_practice/blob/main/fast_and_slow_pointers/palindrome_linked_list.py) - Easy
-   
+
+## Sliding Window:
+1. [Repeated DNA Sequence](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/repeated_dna_seq.py) - Medium
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
   
