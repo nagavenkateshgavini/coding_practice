@@ -35,6 +35,8 @@ This repo contains DS & Algo problem solutions
 
 ## Sliding Window:
 1. [Repeated DNA Sequence](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/repeated_dna_seq.py) - Medium
+2. [Sliding Window Maximum](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/sliding_window_maximum.py) - Hard
+3. [Minimum Window Subsequence](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/minimum_window_subsequence.py) - Hard
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
   
