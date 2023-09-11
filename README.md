@@ -37,6 +37,11 @@ This repo contains DS & Algo problem solutions
 1. [Repeated DNA Sequence](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/repeated_dna_seq.py) - Medium
 2. [Sliding Window Maximum](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/sliding_window_maximum.py) - Hard
 3. [Minimum Window Subsequence](https://github.com/nagavenkateshgavini/coding_practice/blob/main/sliding_window/minimum_window_subsequence.py) - Hard
+
+## Merge Intervals:
+1. [Merge Interval](https://github.com/nagavenkateshgavini/coding_practice/blob/main/merge_intervals/merge_intervals.py) - Medium
+2. [Insert Interval](https://github.com/nagavenkateshgavini/coding_practice/blob/main/merge_intervals/insert_interval.py) - Medium
+
 ## Binary Search:
   1. [Binary Search](https://github.com/nagavenkateshgavini/coding_practise/blob/main/binary_search/binary_search.py) - Easy
   
