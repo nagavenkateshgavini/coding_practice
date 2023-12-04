@@ -60,6 +60,7 @@ This repo contains DS & Algo problem solutions
 
 ## Heaps Or Priority Queues:
   1. [Find kth largest element from a stream of numbers](https://github.com/nagavenkateshgavini/coding_practise/blob/main/heaps/kth_largest_element_in_a_stream.py) - Easy
+  2. [K Closest points to origin](https://github.com/nagavenkateshgavini/coding_practice/blob/main/heaps/K_Closest_Points_to_Origin.ipynb) - medium
 
 ## Graphs:
   1. [Island Perimeter](https://github.com/nagavenkateshgavini/coding_practise/blob/main/graphs/island_perimeter.py) - Easy
