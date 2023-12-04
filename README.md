@@ -83,3 +83,6 @@ This repo contains DS & Algo problem solutions
 
 ## Math & Geometry:
   1. [Happy Number](https://github.com/nagavenkateshgavini/coding_practise/blob/main/math_and_geometry/happy_number.py) - Easy
+
+## Misc:
+  1. [Best time to sell stock](https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/buy_sell_stock.ipynb) - Easy
