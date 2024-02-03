@@ -71,6 +71,7 @@ This repo contains DS & Algo problem solutions
   6. [Graph DFS iterative](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
   7. [Graph DFS recursive](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
   8. [Number of islands](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/number_of_islands.ipynb) - Medium
+  9. [Topological Sorting](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/topological_sorting.ipynb) - Easy
   
 ## 1-D Dynamic Programming
   1. [Climbing Stairs](https://github.com/nagavenkateshgavini/coding_practise/blob/main/1_d_dynamic_programming/climbing_stairs.py) - Easy
