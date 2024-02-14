@@ -1,6 +1,9 @@
 # coding_practice
 This repo contains DS & Algo problem solutions
 
+# Python knowledge base:
+https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/python_practice.ipynb
+
 # Problems List:
 
 ## Stacks:
