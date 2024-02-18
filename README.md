@@ -7,7 +7,7 @@ https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/p
 # Problems List:
 
 ## Stacks:
-  1. [Valid Paranthesis](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/valid_paranthesis.py) - Easy
+  1. [Valid Paranthesis](https://github.com/nagavenkateshgavini/coding_practice/blob/main/stacks/valid_paranthesis.ipynb) - Easy
   2. [Build Stack with list](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/stack_basic_operations_list.py) - Easy
   3. [Build Stack Operations with linkedlist](https://github.com/nagavenkateshgavini/coding_practise/blob/main/stacks/stack_basic_operation_linked_list.py) - Easy
   4. [Simplify Paht](https://github.com/nagavenkateshgavini/coding_practice/blob/main/stacks/simplify_path.py) - Medium
