@@ -93,3 +93,4 @@ https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/p
   1. [Best time to sell stock](https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/buy_sell_stock.ipynb) - Easy
   2. [Group Anagrams](https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/group_anagrams.ipynb) - Medium
   3. [Reorder Log files](https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/reorder_log_files.ipynb) - Medium
+  4. [Roman to Integer](https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/roman_to_int.ipynb) - Easy
