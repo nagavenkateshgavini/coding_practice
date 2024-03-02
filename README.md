@@ -22,6 +22,7 @@ https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/p
   3. [Longest Consecutive Sequence](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Longest_Consecutive_Sequence.py) - Medium
   4. [Boats to save People](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Boats_to_save_people.py) - Medium
   5. [Optimal Partition of String](https://github.com/nagavenkateshgavini/coding_practise/blob/main/arrays/Optimal_Partition_of_String.py) - Medium
+  6. [Meeting Rooms1](https://github.com/nagavenkateshgavini/coding_practice/blob/main/arrays/meeting_rooms.py) - Easy
 
 ## Two Pointers:
   1. [Valid palindrome](https://github.com/nagavenkateshgavini/coding_practise/blob/main/two_pointers/valid_Palindrome.py) - Easy
