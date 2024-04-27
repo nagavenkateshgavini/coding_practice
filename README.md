@@ -74,7 +74,7 @@ https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/p
   4. [Graph Implementation with adj list](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
   5. [Graph BFS](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/leetcode/bfs.ipynb) - Easy
   6. [Graph DFS iterative](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
-  7. [Graph DFS recursive](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
+  7. [Graph DFS recursive](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/leetcode/dfs.ipynb) - Easy
   8. [Number of islands](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/number_of_islands.ipynb) - Medium
   9. [Topological Sorting](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/topological_sorting.ipynb) - Easy
   10. [Detect cycles with topological sort](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/topological_sorting_detect_cycle.ipynb) - Easy
