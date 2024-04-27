@@ -72,7 +72,7 @@ https://github.com/nagavenkateshgavini/coding_practice/blob/main/miscelleneous/p
   2. [DFS with adj matrix Recursive](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/dfs_recursive_adj_matrix.py) - Easy
   3. [DFS with adj list Recursive](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/dfs_recursive_adj_list.py) - Easy
   4. [Graph Implementation with adj list](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
-  5. [Graph BFS](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
+  5. [Graph BFS](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/leetcode/bfs.ipynb) - Easy
   6. [Graph DFS iterative](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
   7. [Graph DFS recursive](https://github.com/nagavenkateshgavini/coding_practice/tree/main/graphs/graph_implementation_effective) - Easy
   8. [Number of islands](https://github.com/nagavenkateshgavini/coding_practice/blob/main/graphs/number_of_islands.ipynb) - Medium
